@@ -139,14 +139,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\Desktop\Car.h" />
-    <ClInclude Include="..\..\..\..\Desktop\Truck.h" />
+    <ClInclude Include="Car.h" />
+    <ClInclude Include="Truck.h" />
     <ClInclude Include="Vehicle.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Desktop\Car.cpp" />
-    <ClCompile Include="..\..\..\..\Desktop\Truck.cpp" />
-    <ClCompile Include="..\..\..\..\Desktop\Vehicle.cpp" />
+    <ClCompile Include="Car.cpp" />
+    <ClCompile Include="Johnson_Aidan_CIS1202_Inheritance.cpp" />
+    <ClCompile Include="Truck.cpp" />
+    <ClCompile Include="Vehicle.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
