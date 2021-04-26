@@ -139,9 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\..\..\Desktop\Car.h" />
     <ClInclude Include="Vehicle.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\..\Desktop\Car.cpp" />
     <ClCompile Include="..\..\..\..\Desktop\Vehicle.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

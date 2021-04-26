@@ -18,9 +18,15 @@
     <ClInclude Include="Vehicle.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\Car.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\..\Desktop\Vehicle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\Car.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
